@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D0A5C9B-B317-446A-9926-229A7EA56FD4}|lost_and_found_system\\lost_and_found_system.csproj|c:\\users\\jerald jay\\desktop\\lostandfound_activity8\\lost_and_found_system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6D0A5C9B-B317-446A-9926-229A7EA56FD4}|lost_and_found_system\\lost_and_found_system.csproj|c:\\users\\jerald jay\\desktop\\lostandfound_activity8\\lost_and_found_system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0A5C9B-B317-446A-9926-229A7EA56FD4}|lost_and_found_system\\lost_and_found_system.csproj|solutionrelative:lost_and_found_system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0A5C9B-B317-446A-9926-229A7EA56FD4}|lost_and_found_system\\lost_and_found_system.csproj|C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6D0A5C9B-B317-446A-9926-229A7EA56FD4}|lost_and_found_system\\lost_and_found_system.csproj|solutionrelative:lost_and_found_system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0A5C9B-B317-446A-9926-229A7EA56FD4}|lost_and_found_system\\lost_and_found_system.csproj|c:\\users\\jerald jay\\desktop\\lostandfound_activity8\\lost_and_found_system\\adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0A5C9B-B317-446A-9926-229A7EA56FD4}|lost_and_found_system\\lost_and_found_system.csproj|solutionrelative:lost_and_found_system\\adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\AddUser.Designer.cs",
+              "RelativeDocumentMoniker": "lost_and_found_system\\AddUser.Designer.cs",
+              "ToolTip": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\AddUser.Designer.cs*",
+              "RelativeToolTip": "lost_and_found_system\\AddUser.Designer.cs*",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAAACUBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:35:40.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\AddUser.cs",
+              "RelativeDocumentMoniker": "lost_and_found_system\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\AddUser.cs*",
+              "RelativeToolTip": "lost_and_found_system\\AddUser.cs*",
+              "ViewState": "AgIAALEAAAAAAAAAAAA8wMMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:22:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AddUser.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\AddUser.cs",
               "RelativeDocumentMoniker": "lost_and_found_system\\AddUser.cs",
-              "ToolTip": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\AddUser.cs [Design]",
-              "RelativeToolTip": "lost_and_found_system\\AddUser.cs [Design]",
+              "ToolTip": "C:\\Users\\Jerald Jay\\Desktop\\LostandFound_Activity8\\lost_and_found_system\\AddUser.cs [Design]*",
+              "RelativeToolTip": "lost_and_found_system\\AddUser.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T05:22:06.986Z",
               "EditorCaption": " [Design]"
